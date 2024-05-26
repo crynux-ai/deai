@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Introduction](README.md)
+  * [General Terminology](introduction/general-terminology.md)
