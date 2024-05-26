@@ -26,3 +26,8 @@
   * [Problem Formulation](incentive-mechanisms/problem-formulation.md)
   * [Contribution Evaluation](incentive-mechanisms/contribution-evaluation.md)
   * [Copyright](incentive-mechanisms/copyright.md)
+* [Verification of Computation](verification-of-computation/README.md)
+  * [Computation on Smart Contract](verification-of-computation/computation-on-smart-contract.md)
+  * [Zero-Knowledge Proof](verification-of-computation/zero-knowledge-proof.md)
+  * [Blockchain Audit](verification-of-computation/blockchain-audit.md)
+  * [Consensus Protocol](verification-of-computation/consensus-protocol.md)

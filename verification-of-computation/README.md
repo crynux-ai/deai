@@ -1,0 +1,5 @@
+# Verification of Computation
+
+In the decentralized infrastructure of DeAI, computing resources often come from untrusted third parties. Consequently, the verification of computations becomes imperative to ensure the integrity of the process, safeguarding against instances where remote computing nodes might produce erroneous or even deliberately falsified results. Failure to verify computations not only risks rewarding malicious nodes undeservedly but also poses threats to the integrity of the entire model training process, including vulnerabilities to sybil attacks and poisoning attacks.
+
+While some studies have delved into the realm of verifiable computing, these investigations may not encompass the latest advancements following the emergence of blockchain technology and cryptographic techniques. Incorporating insights from these domains could yield novel solutions capable of addressing the evolving challenges within decentralized AI ecosystems, ensuring the robustness and trustworthiness of computations conducted by remote nodes.
