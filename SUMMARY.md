@@ -22,3 +22,7 @@
   * [Sybil Attacks](security/sybil-attacks.md)
   * [Impact of Large Models](security/impact-of-large-models.md)
   * [Responsibility](security/responsibility.md)
+* [Incentive mechanisms](incentive-mechanisms/README.md)
+  * [Problem Formulation](incentive-mechanisms/problem-formulation.md)
+  * [Contribution Evaluation](incentive-mechanisms/contribution-evaluation.md)
+  * [Copyright](incentive-mechanisms/copyright.md)
