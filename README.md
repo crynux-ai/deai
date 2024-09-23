@@ -1,3 +1,5 @@
+You may read the PDF version [here](https://crynux-ai.github.io/deai/Decentralized_AI_Review.pdf)
+
 # Introduction
 
 Over the past decade, the field of Artificial Intelligence (AI) has experienced unprecedented growth, marked by remarkable achievements like ChatGPT, a product leveraging generative pre-trained transformers, which has expanded the horizons of AI capabilities, edging us closer to the theoretical concept of Artificial General Intelligence (AGI) – a machine endowed with human-like cognitive capacities. Nevertheless, this surge in advancement has raised significant apprehensions regarding the concentration of AI development.
